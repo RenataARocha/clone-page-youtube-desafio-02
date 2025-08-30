@@ -23,7 +23,11 @@ Este projeto serve como **exercício prático de HTML, CSS e semântica**, além
 
 ## 🖼️ Preview do layout
 
-![Preview do projeto](assets/preview.png) <!-- Substitua por print do seu projeto -->
+
+
+https://github.com/user-attachments/assets/1ef571cf-5eb6-4c06-8094-8f7203b245e2
+
+
 
 ## 🚀 Como rodar
 
@@ -51,10 +55,6 @@ clone-youtube/
 ├─ index.html
 └─ style.css
 ```
-
-## 🔗 Link do repositório
-
-[Clone do YouTube no GitHub](https://github.com/seu-usuario/clone-youtube)
 
 ---
 
